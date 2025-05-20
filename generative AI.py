@@ -73,7 +73,7 @@ if __name__ == "__main__":
     print("\n📋 Personalized Learning Roadmap:\n")
     print(roadmap_output['roadmap'])
 
-# tools/job_skill_scraper.py
+# tools//job_skill_scraper.py
 import requests
 from bs4 import BeautifulSoup
 
